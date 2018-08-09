@@ -109,4 +109,4 @@ venv.bak/
 *.xlsx
 
 # TensorFlow graphs
-/graphs/
+graphs/
