@@ -107,3 +107,6 @@ venv.bak/
 /data
 *.csv
 *.xlsx
+
+# TensorFlow graphs
+/graphs
